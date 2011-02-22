@@ -115,10 +115,3 @@ def output_matrix(data,path):
 	txt=header+txt	
 	print txt
 
-
-
-main()
-
-
-
-
